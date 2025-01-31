@@ -28,7 +28,7 @@ Studying [B.S. in Computer Science and Technology](https://samp.itesm.mx/Program
 [![](https://visitcount.itsvg.in/api?id=ZAnaKarenZ&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!--
 **ZAnaKarenZ/ZAnaKarenZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
